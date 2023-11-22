@@ -1,0 +1,26 @@
+.main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: rgb(215, 238, 250);
+    color: darkblue;
+}
+input {
+margin-left: 10px;
+border-radius: 6px;
+border: 1px solid darkblue;
+outline: none;
+/* background-color: rgb(234, 234, 231); */
+}
+textarea{
+    border-radius: 6px;
+}
+button {
+    border-radius: 10px;
+    border: 1px solid darkblue;
+    background-color: transparent;
+    width: 100px;
+    height: 30px;
+    color: rgb(13, 56, 93);
+}
